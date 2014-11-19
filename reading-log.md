@@ -1,3 +1,13 @@
+* https://www.youtube.com/watch?v=7Gbg_wM7X8w couch db
+* https://www.youtube.com/watch?v=4nnOF3geVTI hadoop vs mongo db
+* https://www.youtube.com/watch?v=Wt7w0AEvIZo  mongo db vs couchbase
+* https://www.youtube.com/watch?v=7MaYeudL9yo Domain Driven Design - Eric Evans
+* http://www.youtube.com/watch?v=qI_g07C_Q5I story of NoSQL by Martin Fowler 
+* http://www.youtube.com/watch?v=pHAItWE7QMU  easy NoSQL Database
+  explain
+* http://nicinabox.com/superslides/#1 full screen sideshow lib
+* http://www.atomicsmash.co.uk/blog/three-jquery-fullscreen-slideshows/
+
 * https://www.youtube.com/watch?v=tg5RFeSfBM4
 * http://www.rubyraptor.org/how-we-made-raptor-up-to-4x-faster-than-unicorn-and-up-to-2x-faster-than-puma-torquebox/
 * http://www.rubyinside.com/raptor-a-new-ruby-web-server-for-faster-app-deployment-6168.html
