@@ -1,3 +1,9 @@
+* http://fortawesome.github.io/Font-Awesome/get-started/#bootstrapcdn
+  font awesome CDN
+* http://www.bootstrapcdn.com/#fontawesome_tab   bootstrap CDN
+* https://signalvnoise.com/posts/312-lingo-judo
+* http://blog.crowdint.com/2014/04/25/sprockets-sinatra.html
+
 * https://www.youtube.com/watch?v=7Gbg_wM7X8w couch db
 * https://www.youtube.com/watch?v=4nnOF3geVTI hadoop vs mongo db
 * https://www.youtube.com/watch?v=Wt7w0AEvIZo  mongo db vs couchbase
