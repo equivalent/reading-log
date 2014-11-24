@@ -1,3 +1,10 @@
+* http://www.tommyblue.it/2014/04/11/how-to-logrotate-rails-logs/
+* http://www.youtube.com/watch?v=U3m0jKygAqU
+* http://jasonwilder.com/blog/2013/11/19/fluentd-vs-logstash/
+* http://www.youtube.com/watch?v=rJ2wGOaMRnA # logstash example 
+* http://railscasts.com/episodes/406-public-activity
+* http://500hats.typepad.com/500blogs/2007/09/startup-metrics.html
+
 * http://fortawesome.github.io/Font-Awesome/get-started/#bootstrapcdn
   font awesome CDN
 * http://www.bootstrapcdn.com/#fontawesome_tab   bootstrap CDN
