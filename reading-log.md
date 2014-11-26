@@ -1,3 +1,9 @@
+* http://stackoverflow.com/questions/12752288/git-merge-doesnt-use-default-merge-message-opens-editor-with-default-message/12752379#12752379
+* http://stackoverflow.com/questions/17508542/how-to-set-the-default-font-size-on-vim
+* http://stackoverflow.com/questions/11744081/why-is-git-prompting-me-for-a-post-pull-merge-commit-message
+
+* http://www.fluentd.org/
+* http://logstash.net/
 * http://www.tommyblue.it/2014/04/11/how-to-logrotate-rails-logs/
 * http://www.youtube.com/watch?v=U3m0jKygAqU
 * http://jasonwilder.com/blog/2013/11/19/fluentd-vs-logstash/
