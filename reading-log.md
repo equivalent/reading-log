@@ -1,3 +1,5 @@
+* http://askubuntu.com/questions/65083/what-kinds-of-desktop-environments-and-shells-are-available
+
 * http://stackoverflow.com/questions/12752288/git-merge-doesnt-use-default-merge-message-opens-editor-with-default-message/12752379#12752379
 * http://stackoverflow.com/questions/17508542/how-to-set-the-default-font-size-on-vim
 * http://stackoverflow.com/questions/11744081/why-is-git-prompting-me-for-a-post-pull-merge-commit-message
