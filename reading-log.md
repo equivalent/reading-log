@@ -1,3 +1,17 @@
+* http://dev.housetrip.com/2014/01/14/session-store-and-security/
+* http://blog.tech-angels.com/post/840662150/ruby-on-rails-secure-cookies
+* http://guides.rubyonrails.org/security.html#session-hijacking
+* http://stackoverflow.com/questions/14498315/set-secure-flag-on-session-cookie-in-ror-even-over-http
+* http://www.cyberciti.biz/faq/howto-linux-unix-setup-nginx-ssl-proxy/
+
+* http://samsaffron.com/archive/2014/12/01/speeding-up-rails-4-2
+* https://www.youtube.com/watch?v=O5XtIM8FGT0  Advantages of using
+  MongoDB in a Single Page Web Application
+
+* https://stackoverflow.com/questions/10323331/remove-unnecessary-http-headers-in-my-rails-answers/27175020#27175020
+* http://leftshift.io/upgrading-nginx-to-the-latest-version-on-ubuntu-servers
+* https://www.youtube.com/watch?v=cIx8zibL3cI  Mongo db vs PostgreSQL
+* https://coderwall.com/p/_yrafw/skipping-before-hook-for-a-few-test-cases-in-rspec
 * http://askubuntu.com/questions/65083/what-kinds-of-desktop-environments-and-shells-are-available
 
 * http://stackoverflow.com/questions/12752288/git-merge-doesnt-use-default-merge-message-opens-editor-with-default-message/12752379#12752379
