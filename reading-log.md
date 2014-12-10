@@ -1,3 +1,14 @@
+* http://devblog.avdi.org/2009/10/25/iso8601-dates-in-ruby/
+* http://datachomp.com/archives/using-unicorn-with-sinatra-or-padrino-on-heroku/
+
+* https://www.youtube.com/watch?v=7YcW25PHnAA # api requests for various
+  popular websites
+* https://www.youtube.com/watch?v=hdSrT4yjS1g # another Stormpath API presentation
+* http://blog.plataformatec.com.br/2014/07/rails-4-and-postgresql-arrays/
+* http://codefol.io/posts/How-Does-Rack-Parse-Query-Params-With-parse-nested-query
+* http://mherman.org/blog/2013/06/08/designing-with-class-sinatra-plus-postgresql-plus-heroku/
+* http://recipes.sinatrarb.com/p/development/bundler
+
 * http://dev.housetrip.com/2014/01/14/session-store-and-security/
 * http://blog.tech-angels.com/post/840662150/ruby-on-rails-secure-cookies
 * http://guides.rubyonrails.org/security.html#session-hijacking
