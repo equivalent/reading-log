@@ -1,3 +1,5 @@
+* http://stackoverflow.com/questions/8463809/customize-the-authorization-http-header
+* http://www.w3.org/Protocols/rfc2616/rfc2616-sec14.html
 * http://devblog.avdi.org/2009/10/25/iso8601-dates-in-ruby/
 * http://datachomp.com/archives/using-unicorn-with-sinatra-or-padrino-on-heroku/
 
