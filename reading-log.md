@@ -1,3 +1,9 @@
+* https://www.ruby-lang.org/en/news/2014/12/25/ruby-2-2-0-released/
+* http://www.bbc.co.uk/news/technology-30686697
+* http://weblog.rubyonrails.org/2014/12/19/Rails-4-2-final/
+* https://github.com/rails/globalid
+* http://guides.rubyonrails.org/4_2_release_notes.html
+
 * http://stackoverflow.com/questions/8463809/customize-the-authorization-http-header
 * http://www.w3.org/Protocols/rfc2616/rfc2616-sec14.html
 * http://devblog.avdi.org/2009/10/25/iso8601-dates-in-ruby/
