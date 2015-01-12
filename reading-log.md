@@ -1,3 +1,25 @@
+* https://blog.0xbadc0de.be/archives/124 # why is autocomplete=off bad
+  idea
+* https://github.com/rails/rails/issues/18453  # my PR on
+  autocomplete=off in Rails
+* http://stackoverflow.com/questions/4104474/rails-3-utf-8-query-string-showing-up-in-url # what is mr-snowman fix
+
+* http://blog.kotowicz.net/2009/12/5-ways-to-prevent-clickjacking-on-your.html
+* http://www.contextis.co.uk/services/research/white-
+papers/clickjacking-black-hat-2010/
+* http://stackoverflow.com/questions/618301/binding-of-ip-address-with-session-id
+* http://stackoverflow.com/questions/15051712/how-to-do-authentication-with-a-rest-api-right-browser-native-clients
+* http://shebang.brandonmintern.com/foolproof-html-escaping-in-javascript/
+* http://www.abeautifulsite.net/how-to-use-currentcolor-in-your-stylesheet/
+* http://www.abeautifulsite.net/whipping-file-inputs-into-shape-with-bootstrap-3/
+* http://www.uxpin.com/guide-to-mockups.html
+
+* http://dev.housetrip.com/2014/01/14/session-store-and-security/
+* http://en.wikipedia.org/wiki/HTTP_cookie#Secure_and_HttpOnly
+* http://blog.codinghorror.com/protecting-your-cookies-httponly/
+* http://railscasts.com/episodes/356-dangers-of-session-hijacking?view=comments
+* http://stackoverflow.com/questions/12874582/rails-is-devise-vulnerable-to-session-hijacking
+* http://blog.8thlight.com/adam-gooch/2013/03/01/help-prevent-session-hijacking.html
 * https://www.ruby-lang.org/en/news/2014/12/25/ruby-2-2-0-released/
 * http://www.bbc.co.uk/news/technology-30686697
 * http://weblog.rubyonrails.org/2014/12/19/Rails-4-2-final/
