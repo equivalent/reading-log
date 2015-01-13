@@ -1,3 +1,10 @@
+* https://github.com/scambra/devise_invitable/issues/402#issuecomment-69778014   devise invitable upgrade issue
+* https://www.youtube.com/watch?v=d0yGdNEWdn0  speed up learing any
+  languge in 6 months
+* https://www.youtube.com/watch?v=0UmUgaJwEr0  remote working Tedx
+* https://www.youtube.com/watch?v=pTjS0o-ZIRg  DHH on remote working
+
+* https://www.andyjeffries.co.uk/25-tips-for-intermediate-git-users/
 * https://blog.0xbadc0de.be/archives/124 # why is autocomplete=off bad
   idea
 * https://github.com/rails/rails/issues/18453  # my PR on
