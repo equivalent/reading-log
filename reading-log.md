@@ -1,3 +1,11 @@
+* http://www.techverse.net/download-windows-7-iso-x86-x64-microsofts-official-servers/ official windows 7 win pro home image img download
+
+* http://blog.freecodecamp.com/2015/01/a-vision-of-coding-without-opening-your-eyes.html
+* https://blog.heroku.com/archives/2015/1/20/why_microservices_matter 
+
+* http://www.allaboutvision.com/cvs/irritated.htm   how to limit eye
+  iritation 
+
 * https://github.com/scambra/devise_invitable/issues/402#issuecomment-69778014   devise invitable upgrade issue
 * https://www.youtube.com/watch?v=d0yGdNEWdn0  speed up learing any
   languge in 6 months
