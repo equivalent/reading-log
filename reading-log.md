@@ -1,3 +1,13 @@
+* http://www.sitepoint.com/new-methods-ruby-2-2/
+
+* http://blog.teamtreehouse.com/handlebars-js-part-2-partials-and-helpers:w
+* https://github.com/leshill/handlebars_assets
+* http://viget.com/extend/rails-engine-testing-with-rspec-capybara-and-factorygirl
+
+* https://www.youtube.com/watch?v=f84n5oFoZBc # Hammock Driven  Development - Rich Hickey
+
+
+* http://www.justinweiss.com/blog/2014/09/08/rails-5-module-number-prepend-and-the-end-of-alias-method-chain/
 * http://www.techverse.net/download-windows-7-iso-x86-x64-microsofts-official-servers/ official windows 7 win pro home image img download
 
 * http://blog.freecodecamp.com/2015/01/a-vision-of-coding-without-opening-your-eyes.html
