@@ -1,3 +1,6 @@
+* https://devcenter.heroku.com/articles/rails-unicorn#slow-clients
+* https://devcenter.heroku.com/changelog-items/594
+
 * http://www.sitepoint.com/new-methods-ruby-2-2/
 
 * http://blog.teamtreehouse.com/handlebars-js-part-2-partials-and-helpers:w
