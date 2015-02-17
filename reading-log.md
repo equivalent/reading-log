@@ -1,3 +1,13 @@
+* https://www.digitalocean.com/community/tutorials/how-to-use-gpg-to-encrypt-and-sign-messages-on-an-ubuntu-12-04-vps
+
+* http://stackoverflow.com/questions/13594199/formatting-a-cell-as-text-using-the-axlsx-spreadsheet-ruby-gem
+* http://stackoverflow.com/questions/26933168/applying-several-styles-to-a-cell-in-excel-spreadsheet-with-axlsx-gem
+* https://aws.amazon.com/marketplace/pp/B007I98IH8  # Alestic Git Server   ec2
+* https://www.youtube.com/watch?v=N-v_DBFbZxo # Deploying to EC2 using Git
+* http://www.lostdecadegames.com/goodbye-github-hello-aws/
+* http://www.topnettricks.com/stream-media-from-d-link-dns-320/
+
+* www.strathweb.com/2012/03/passing-data-to-jquery-events-with-event-data-and-custom-event-object/
 * https://devcenter.heroku.com/articles/rails-unicorn#slow-clients
 * https://devcenter.heroku.com/changelog-items/594
 
