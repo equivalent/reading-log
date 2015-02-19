@@ -1,3 +1,5 @@
+* http://blog.lunarlogic.io/2015/models-on-a-diet/
+
 * https://www.digitalocean.com/community/tutorials/how-to-use-gpg-to-encrypt-and-sign-messages-on-an-ubuntu-12-04-vps
 
 * http://stackoverflow.com/questions/13594199/formatting-a-cell-as-text-using-the-axlsx-spreadsheet-ruby-gem
