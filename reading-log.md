@@ -1,3 +1,6 @@
+* http://vimcasts.org/episodes/aligning-text-with-tabular-vim/
+
+* http://railscasts.com/episodes/409-active-model-serializers
 * http://blog.lunarlogic.io/2015/models-on-a-diet/
 
 * https://www.digitalocean.com/community/tutorials/how-to-use-gpg-to-encrypt-and-sign-messages-on-an-ubuntu-12-04-vps
