@@ -1,3 +1,6 @@
+* https://addons.heroku.com/stormpath#developer 
+* https://devcenter.heroku.com/articles/github-integration
+
 * http://vimcasts.org/episodes/aligning-text-with-tabular-vim/
 
 * http://railscasts.com/episodes/409-active-model-serializers
