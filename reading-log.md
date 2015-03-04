@@ -1,3 +1,6 @@
+* https://www.youtube.com/watch?v=WpkDN78P884 # Ruby Midwest 2011 -  Keynote: Architecture the Lost Years by Robert Martin
+* https://www.youtube.com/watch?v=QHnLmvDxGTY # Robob Martin at yale speach
+* https://www.youtube.com/watch?v=up0kiOJvUpI # RailsConf 09: David Heinemeier Hansson, "Rails 3 ...and the real secret to high productivity"
 * https://www.youtube.com/watch?v=MlhAkNWC1qo # David Heinemeier  Hansson-Unlearn Your MBA (Entire talk) - talk about 37signals business model 
 
 * https://www.youtube.com/watch?v=sb2xzeWf-PM # David Heinemeier Hansson  - Ruby on Rails, Startups, Culture
