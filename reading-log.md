@@ -1,9 +1,13 @@
+* https://www.youtube.com/watch?v=MlhAkNWC1qo # David Heinemeier  Hansson-Unlearn Your MBA (Entire talk) - talk about 37signals business model 
+
+* https://www.youtube.com/watch?v=sb2xzeWf-PM # David Heinemeier Hansson  - Ruby on Rails, Startups, Culture
+
+* https://www.youtube.com/watch?v=YX3iRjKj7C0 # What Killed Smalltalk Could Kill Ruby, Too Robert Martin
+* http://elementalselenium.com/tips/38-headless # run selenium without  IDE (headles browser selenium)
 * https://www.youtube.com/watch?v=2x8lipiP1R4 # Bob Martin on the Future of Software Development
 * https://www.youtube.com/watch?v=w7-i1WFZMI4 # How to Build an Emerging  Software Architecture with Web Development
 * https://www.youtube.com/watch?v=p0O1VVqRSK0 # Robert C. Martin (Uncle  Bob) - Demanding Professionalism in Software Development
 * https://www.ruby-lang.org/en/news/2015/03/03/ruby-2-2-1-released/
-
-
 
 * https://addons.heroku.com/stormpath#developer 
 * https://devcenter.heroku.com/articles/github-integration
