@@ -1,3 +1,10 @@
+* https://www.youtube.com/watch?v=2x8lipiP1R4 # Bob Martin on the Future of Software Development
+* https://www.youtube.com/watch?v=w7-i1WFZMI4 # How to Build an Emerging  Software Architecture with Web Development
+* https://www.youtube.com/watch?v=p0O1VVqRSK0 # Robert C. Martin (Uncle  Bob) - Demanding Professionalism in Software Development
+* https://www.ruby-lang.org/en/news/2015/03/03/ruby-2-2-1-released/
+
+
+
 * https://addons.heroku.com/stormpath#developer 
 * https://devcenter.heroku.com/articles/github-integration
 
