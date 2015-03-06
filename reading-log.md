@@ -1,3 +1,8 @@
+* https://www.youtube.com/watch?v=Nsjsiz2A9mg # Robert C Martin - Clean
+  Architecture and Design
+
+* https://www.youtube.com/watch?v=ShOMGASbcJ0 # Ward Cunningham & Kent   Beck
+
 * https://www.youtube.com/watch?v=WpkDN78P884 # Ruby Midwest 2011 -  Keynote: Architecture the Lost Years by Robert Martin
 * https://www.youtube.com/watch?v=QHnLmvDxGTY # Robob Martin at yale speach
 * https://www.youtube.com/watch?v=up0kiOJvUpI # RailsConf 09: David Heinemeier Hansson, "Rails 3 ...and the real secret to high productivity"
