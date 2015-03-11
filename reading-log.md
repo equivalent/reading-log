@@ -1,3 +1,9 @@
+* https://www.youtube.com/watch?v=aieoAWXNjl0 # How You Can Architect  and Develop Enterprise Mission-Critical Applications with Domain-Driven Design
+
+* http://stackoverflow.com/questions/10168436/how-do-i-turn-off-exceptions-in-a-rack-app/28988192#28988192
+* https://gist.github.com/remvee/600569 # silence ActionController::UnknownHttpMethod exceptions
+* http://stackoverflow.com/questions/762336/whats-the-difference-between-rack-and-rails-metal-ruby
+
 * https://www.youtube.com/watch?v=Nsjsiz2A9mg # Robert C Martin - Clean
   Architecture and Design
 
