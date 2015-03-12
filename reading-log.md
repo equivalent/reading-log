@@ -1,4 +1,7 @@
+* http://briancarper.net/blog/226/ # ruby interfaces
+* http://en.wikipedia.org/wiki/Duck_typing#In_Ruby
 * http://stackoverflow.com/questions/4437291/what-is-java-interface-equivalent-in-ruby
+
 * https://www.youtube.com/watch?v=aieoAWXNjl0 # How You Can Architect  and Develop Enterprise Mission-Critical Applications with Domain-Driven Design
 
 * http://stackoverflow.com/questions/10168436/how-do-i-turn-off-exceptions-in-a-rack-app/28988192#28988192
