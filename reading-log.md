@@ -1,3 +1,5 @@
+* http://www.justinweiss.com/blog/2015/03/10/a-couple-callback-gotchas-and-a-rails-5-fix/
+
 * http://briancarper.net/blog/226/ # ruby interfaces
 * http://en.wikipedia.org/wiki/Duck_typing#In_Ruby
 * http://stackoverflow.com/questions/4437291/what-is-java-interface-equivalent-in-ruby
