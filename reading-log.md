@@ -1,3 +1,6 @@
+* http://weblog.jamisbuck.org/2007/2/5/nesting-resources
+* http://edgeguides.rubyonrails.org/routing.html#shallow-nesting
+
 * http://www.justinweiss.com/blog/2015/03/10/a-couple-callback-gotchas-and-a-rails-5-fix/
 
 * http://briancarper.net/blog/226/ # ruby interfaces
