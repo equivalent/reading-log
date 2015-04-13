@@ -1,3 +1,8 @@
+* https://github.com/KamilLelonek/active_nothing
+* https://www.youtube.com/watch?v=9lv2lBq6x4A&feature=youtu.be # Sendi   Metz talk on active nothing
+* http://yehudakatz.com/2009/10/04/emulating-smalltalks-conditionals-in-ruby/
+* https://www.youtube.com/watch?v=-nsnAYRqYLA # saron talk
+
 * http://weblog.jamisbuck.org/2007/2/5/nesting-resources
 * http://edgeguides.rubyonrails.org/routing.html#shallow-nesting
 
