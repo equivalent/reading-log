@@ -1,7 +1,20 @@
+
+todo https://www.youtube.com/watch?v=7i6AL7Walc4&list=WL #  Isomorphic App Development with Ruby and Volt by Ryan Stout
+todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=3229  # rais conf 2015 day 1
+
+* http://git.postgresql.org/gitweb/?p=postgresql.git;a=commit;h=168d5805e4c08bed7b95d351bf097cff7c07dd65 # postgress conflict clause
+
+
+* https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=3229
+* https://www.youtube.com/watch?v=f5I1iyso29U # sandi metz make a mess
+
+* http://chriskottom.com/blog/2015/04/unexpected-the-new-minitest-spec-syntax/
+* https://medium.com/unexpected-token/making-your-website-multi-regional-using-top-level-domains-cdbbdb951b65
+
 * https://github.com/KamilLelonek/active_nothing
 * https://www.youtube.com/watch?v=9lv2lBq6x4A&feature=youtu.be # Sendi   Metz talk on active nothing
 * http://yehudakatz.com/2009/10/04/emulating-smalltalks-conditionals-in-ruby/
-* https://www.youtube.com/watch?v=-nsnAYRqYLA # saron talk
+* https://www.youtube.com/watch?v=-nsnAYRqYLA # saron talk on learning
 
 * http://weblog.jamisbuck.org/2007/2/5/nesting-resources
 * http://edgeguides.rubyonrails.org/routing.html#shallow-nesting
