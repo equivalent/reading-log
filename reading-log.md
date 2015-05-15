@@ -5,6 +5,8 @@ todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=322
 * http://git.postgresql.org/gitweb/?p=postgresql.git;a=commit;h=168d5805e4c08bed7b95d351bf097cff7c07dd65 # postgress conflict clause
 
 
+* https://robots.thoughtbot.com/fast-json-apis-in-rails-with-key-based-caches-and # caching in active model serializer 0.8
+
 * https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=3229
 * https://www.youtube.com/watch?v=f5I1iyso29U # sandi metz make a mess
 
