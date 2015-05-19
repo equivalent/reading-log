@@ -2,6 +2,11 @@
 todo https://www.youtube.com/watch?v=7i6AL7Walc4&list=WL #  Isomorphic App Development with Ruby and Volt by Ryan Stout
 todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=3229  # rais conf 2015 day 1
 
+
+* http://blog.bogosity.se/2014/04/13/requering-both-an-ssh-key-and-a-yubikey/
+* https://www.yubico.com/applications/computer-login/linux/ # yubikey
+  ssh
+
 * http://git.postgresql.org/gitweb/?p=postgresql.git;a=commit;h=168d5805e4c08bed7b95d351bf097cff7c07dd65 # postgress conflict clause
 
 
