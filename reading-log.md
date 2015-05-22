@@ -2,6 +2,14 @@
 todo https://www.youtube.com/watch?v=7i6AL7Walc4&list=WL #  Isomorphic App Development with Ruby and Volt by Ryan Stout
 todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=3229  # rais conf 2015 day 1
 
+* http://stackoverflow.com/questions/23509740/distinct-on-postgresql-json-data-column/23512013#23512013
+* https://www.youtube.com/watch?v=z9quxZsLcfo  is TDD dead?
+
+* http://silvexis.com/2011/11/26/encrypting-your-data-on-amazon-ec2/
+* http://nixmash.com/postgresql/upgrading-postgresql-9-1-to-9-3-in-ubuntu/`
+
+* https://atom.io/packages/motepair
+* https://blog.pusher.com/atom-pair/
 
 * http://blog.bogosity.se/2014/04/13/requering-both-an-ssh-key-and-a-yubikey/
 * https://www.yubico.com/applications/computer-login/linux/ # yubikey
