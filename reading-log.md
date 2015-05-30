@@ -2,6 +2,13 @@
 todo https://www.youtube.com/watch?v=7i6AL7Walc4&list=WL #  Isomorphic App Development with Ruby and Volt by Ryan Stout
 todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=3229  # rais conf 2015 day 1
 
+* http://stackoverflow.com/questions/16749553/what-is-the-best-approach-to-handle-large-file-uploads-in-a-rails-app
+* http://stackoverflow.com/questions/8126008/uploading-large-files-on-heroku-with-carrierwave
+* http://aws.amazon.com/articles/1434  # upload directly to s3 via http
+  post form
+* https://github.com/dwilkie/carrierwave_direct
+* https://forums.aws.amazon.com/thread.jspa?threadID=172067&tstart=0
+
 * http://stackoverflow.com/questions/23509740/distinct-on-postgresql-json-data-column/23512013#23512013
 * https://www.youtube.com/watch?v=z9quxZsLcfo  is TDD dead?
 
