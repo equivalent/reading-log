@@ -3,9 +3,9 @@ todo https://www.youtube.com/watch?v=7i6AL7Walc4&list=WL #  Isomorphic App Devel
 todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=3229  # rais conf 2015 day 1
 
 
+* http://stackoverflow.com/questions/20898384/ssh-disable-password-authentication
 * http://superuser.com/questions/683520/how-to-increase-vlc-ram-buffer-for-offline-files
 * http://dph.am/blog/2014/04/08/chromebook-for-developers/ 
-
 
 * http://stackoverflow.com/questions/16749553/what-is-the-best-approach-to-handle-large-file-uploads-in-a-rails-app
 * http://stackoverflow.com/questions/8126008/uploading-large-files-on-heroku-with-carrierwave
