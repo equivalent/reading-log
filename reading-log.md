@@ -3,6 +3,9 @@ todo https://www.youtube.com/watch?v=7i6AL7Walc4&list=WL #  Isomorphic App Devel
 todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=3229  # rais conf 2015 day 1
 
 
+* http://www.netsalarycalculator.co.uk/100000-after-tax/  # payment tax   calculator
+* http://www.netsalarycalculator.co.uk/contractor-tax-calculator/ #   contractor caluclator
+
 * http://ruby.awsblog.com/post/Tx2SU6TYJWQQLC3/Stubbing-AWS-Responses
 
 * http://stackoverflow.com/questions/20898384/ssh-disable-password-authentication
