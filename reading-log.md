@@ -5,7 +5,7 @@ todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=322
 * https://www.youtube.com/watch?v=U7dbQ4cIe34 # Ruby Manor 3 - Is Eventmachine a worthy alternative to Node.js? by Andrew Nesbitt
 * http://codefol.io/posts/when-should-you-not-use-heroku
 * https://github.com/andrew/em-shortener
-* 
+* https://www.youtube.com/watch?v=N0PZ7_x6ajw # Ruby Conf 2011 Threading   versus Evented by Dr Nic Williams 
 
 * http://ocw.mit.edu/courses/architecture/4-241j-theory-of-city-form-spring-2013/video-lectures/lec-1-introduction/  # MIT therory of city (architecture lecture)
 
