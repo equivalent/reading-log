@@ -3,6 +3,8 @@ todo https://www.youtube.com/watch?v=7i6AL7Walc4&list=WL #  Isomorphic App Devel
 todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=3229  # rais conf 2015 day 1
 
 
+* http://ocw.mit.edu/courses/architecture/4-241j-theory-of-city-form-spring-2013/video-lectures/lec-1-introduction/  # MIT therory of city (architecture lecture)
+
 * http://www.netsalarycalculator.co.uk/100000-after-tax/  # payment tax   calculator
 * http://www.netsalarycalculator.co.uk/contractor-tax-calculator/ #   contractor caluclator
 
