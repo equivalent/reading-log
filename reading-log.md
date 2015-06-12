@@ -2,6 +2,11 @@
 todo https://www.youtube.com/watch?v=7i6AL7Walc4&list=WL #  Isomorphic App Development with Ruby and Volt by Ryan Stout
 todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=3229  # rais conf 2015 day 1
 
+* http://nixmash.com/postgresql/upgrading-postgresql-9-1-to-9-3-in-ubuntu/
+
+* https://www.youtube.com/watch?v=AyvTZrTVAiY # Interview with Evan Phoenix creator of Rubinius Ruby VM and Puma App Server at RailsConf 2014
+* https://www.youtube.com/watch?v=fK-N_VxdW7g # Jim Weirinch Ruby   Conference 2008 - What All Rubyists Should Know About Threads
+
 * http://nicksda.apotomo.de/2015/06/cells-4-0-goodbye-rails-hello-ruby/
 * https://github.com/apotonick/cells
 * http://trailblazerb.org/
