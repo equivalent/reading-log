@@ -2,6 +2,11 @@
 todo https://www.youtube.com/watch?v=7i6AL7Walc4&list=WL #  Isomorphic App Development with Ruby and Volt by Ryan Stout
 todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=3229  # rais conf 2015 day 1
 
+* https://robots.thoughtbot.com/rails-on-docker
+* https://github.com/jfirebaugh/konacha
+
+* http://blog.parse.com/learn/how-we-moved-our-api-from-ruby-to-go-and-saved-our-sanity/
+* http://blog.parse.com/learn/how-we-moved-our-api-from-ruby-to-go-and-saved-our-sanity/
 * http://nixmash.com/postgresql/upgrading-postgresql-9-1-to-9-3-in-ubuntu/
 
 * https://www.youtube.com/watch?v=AyvTZrTVAiY # Interview with Evan Phoenix creator of Rubinius Ruby VM and Puma App Server at RailsConf 2014
