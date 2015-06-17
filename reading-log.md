@@ -2,8 +2,18 @@
 todo https://www.youtube.com/watch?v=7i6AL7Walc4&list=WL #  Isomorphic App Development with Ruby and Volt by Ryan Stout
 todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=3229  # rais conf 2015 day 1
 
+* https://coderwall.com/p/n2y79g/vagrant-virtualbox-ubuntu-no-internet-access
+
+* https://richonrails.com/articles/action-mailer-previews-in-ruby-on-rails-4-1
+* http://stackoverflow.com/questions/27453578/rails-4-email-preview-in-production
+* http://stackoverflow.com/questions/7165064/how-do-i-preview-emails-in-rails
+* http://blog.mariovisic.com/blog/2012/09/06/rails-http-streaming/
+* https://richonrails.com/articles/action-mailer-previews-in-ruby-on-rails-4-1
+
 * https://robots.thoughtbot.com/rails-on-docker
 * https://github.com/jfirebaugh/konacha
+* http://www.fig.sh/install.html
+* http://docs.docker.com/compose/install/
 
 * http://blog.parse.com/learn/how-we-moved-our-api-from-ruby-to-go-and-saved-our-sanity/
 * http://blog.parse.com/learn/how-we-moved-our-api-from-ruby-to-go-and-saved-our-sanity/
