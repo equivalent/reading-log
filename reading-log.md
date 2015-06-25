@@ -2,6 +2,9 @@
 todo https://www.youtube.com/watch?v=7i6AL7Walc4&list=WL #  Isomorphic App Development with Ruby and Volt by Ryan Stout
 todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=3229  # rais conf 2015 day 1
 
+* http://blog.daviddollar.org/2011/05/06/introducing-foreman.html
+* http://blog.carbonfive.com/2015/03/17/docker-rails-docker-compose-together-in-your-development-workflow/ 
+
 * https://coderwall.com/p/n2y79g/vagrant-virtualbox-ubuntu-no-internet-access
 
 * https://richonrails.com/articles/action-mailer-previews-in-ruby-on-rails-4-1
