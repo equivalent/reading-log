@@ -2,6 +2,13 @@
 todo https://www.youtube.com/watch?v=7i6AL7Walc4&list=WL #  Isomorphic App Development with Ruby and Volt by Ryan Stout
 todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=3229  # rais conf 2015 day 1
 
+
+* http://stackoverflow.com/questions/10591599/rake-dbmigration-not-working-on-travis-ci-build
+
+* https://coderwall.com/p/fprnhg/free-background-jobs-on-heroku
+* http://nofail.de/2011/07/heroku-cedar-background-jobs-for-free/
+
+* https://www.codeschool.com/blog/2015/01/16/production-deployment-docker/
 * http://blog.daviddollar.org/2011/05/06/introducing-foreman.html
 * http://blog.carbonfive.com/2015/03/17/docker-rails-docker-compose-together-in-your-development-workflow/ 
 
