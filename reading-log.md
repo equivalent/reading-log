@@ -2,6 +2,9 @@
 todo https://www.youtube.com/watch?v=7i6AL7Walc4&list=WL #  Isomorphic App Development with Ruby and Volt by Ryan Stout
 todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=3229  # rais conf 2015 day 1
 
+* http://techcrunch.com/2015/06/17/google-microsoft-mozilla-and-others-team-up-to-launch-webassembly-a-new-binary-format-for-the-web/#.euq4pp:TOP0
+* http://thenextweb.com/dd/2015/06/18/google-apple-microsoft-and-mozilla-team-up-to-create-faster-browsers/
+
 
 * http://stackoverflow.com/questions/10591599/rake-dbmigration-not-working-on-travis-ci-build
 
