@@ -2,6 +2,8 @@
 todo https://www.youtube.com/watch?v=7i6AL7Walc4&list=WL #  Isomorphic App Development with Ruby and Volt by Ryan Stout
 todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=3229  # rais conf 2015 day 1
 
+* https://www.youtube.com/watch?v=2yko4TbC8cI&spfreload=1 # Martin Fowler - Microservices
+
 
 * http://blog.honeybadger.io/rubys-case-statement-advanced-techniques/?utm_source=rubyweekly&utm_medium=email
 * http://www.nateberkopec.com/2015/07/15/the-complete-guide-to-rails-caching.html?utm_source=rubyweekly&utm_medium=email
