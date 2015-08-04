@@ -2,6 +2,23 @@
 todo https://www.youtube.com/watch?v=7i6AL7Walc4&list=WL #  Isomorphic App Development with Ruby and Volt by Ryan Stout
 todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=3229  # rais conf 2015 day 1
 
+
+* https://www.youtube.com/watch?v=VeiUjkiqo9E 
+* https://www.youtube.com/watch?v=bV5vbNK3Uhw
+* https://www.youtube.com/watch?v=ddhU3NMrhX4
+* https://www.youtube.com/watch?v=ddhU3NMrhX4
+* https://www.youtube.com/watch?v=rlK1JYsM6Aw
+* https://www.youtube.com/watch?v=GaHzdqFithc
+* https://www.youtube.com/watch?v=ZgjHM1XmAKI
+* https://www.youtube.com/watch?v=3uvqEC8fWV0
+* https://www.youtube.com/watch?v=L6bjTlVdc6U
+* https://www.youtube.com/watch?v=S-fYCOMnsbY
+* https://www.youtube.com/watch?v=3zXe3uXQnSY
+* https://www.youtube.com/watch?v=gtoT0By8yh4
+* https://www.youtube.com/watch?v=zTKGfPfhg78
+* https://www.youtube.com/watch?v=50IZ-AHPKo0
+* https://www.youtube.com/watch?v=fZrDQNaYUc0
+
 * https://www.youtube.com/watch?v=2yko4TbC8cI&spfreload=1 # Martin Fowler - Microservices
 
 
