@@ -3,6 +3,8 @@ todo https://www.youtube.com/watch?v=7i6AL7Walc4&list=WL #  Isomorphic App Devel
 todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=3229  # rais conf 2015 day 1
 
 
+* https://vimeo.com/45140590 # Jim Weirich: Adventures in Functional Programming
+
 * https://www.youtube.com/watch?v=7Zlp9rKHGD4  # uncle bob on function programing
 
 * https://www.youtube.com/watch?v=VeiUjkiqo9E 
