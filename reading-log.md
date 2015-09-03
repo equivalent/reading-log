@@ -3,6 +3,7 @@ todo https://www.youtube.com/watch?v=7i6AL7Walc4&list=WL #  Isomorphic App Devel
 todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=3229  # rais conf 2015 day 1
 
 
+* https://intercityup.com/blog/deploy-rails-app-including-database-configuration-env-vars-assets-using-docker.html
 * https://www.youtube.com/watch?v=sAsRtZEGMMQ # Chad Fowler: "From
   Homogeneous Monolith to Radically Heterogeneous Microservices
   Architecture"
