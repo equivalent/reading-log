@@ -2,7 +2,11 @@
 todo https://www.youtube.com/watch?v=7i6AL7Walc4&list=WL #  Isomorphic App Development with Ruby and Volt by Ryan Stout
 todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=3229  # rais conf 2015 day 1
 
+* https://www.youtube.com/watch?v=48iKjUcENRE # Full Stack Fest 2015:
+  Ruby 3.0, by Yukihiro Matsumoto
+* http://blog.jaredfriedman.com/2015/09/15/why-i-wouldnt-use-rails-for-a-new-company/?utm_source=rubyweekly&utm_medium=email
 
+* https://www.codeschool.com/blog/2015/01/16/production-deployment-docker/
 * https://intercityup.com/blog/deploy-rails-app-including-database-configuration-env-vars-assets-using-docker.html
 * https://www.youtube.com/watch?v=sAsRtZEGMMQ # Chad Fowler: "From
   Homogeneous Monolith to Radically Heterogeneous Microservices
