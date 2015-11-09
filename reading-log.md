@@ -2,6 +2,8 @@
 todo https://www.youtube.com/watch?v=7i6AL7Walc4&list=WL #  Isomorphic App Development with Ruby and Volt by Ryan Stout
 todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=3229  # rais conf 2015 day 1
 
+* http://devblog.avdi.org/2011/05/30/null-objects-and-falsiness/
+
 * https://www.youtube.com/watch?v=EzpHeMUBX70  # An appreciation for URLs and doing right by users: Dan Webb interviewed at Fluent 2012
 * https://www.youtube.com/watch?v=4WRmFp8jZjc  # Dan Webb: Flight.js
 
