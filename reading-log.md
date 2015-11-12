@@ -2,6 +2,14 @@
 todo https://www.youtube.com/watch?v=7i6AL7Walc4&list=WL #  Isomorphic App Development with Ruby and Volt by Ryan Stout
 todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=3229  # rais conf 2015 day 1
 
+
+* http://blog.celingest.com/en/2013/11/14/replace-lost-keypair-ec2-instance/
+* http://stackoverflow.com/questions/31314559/aws-elastic-beanstalk-cli-does-not-prompt-to-create-new-keypair
+* http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/eb3-ssh.html
+* http://docs.aws.amazon.com/cli/latest/userguide/cli-ec2-launch.html
+
+* http://www.ebaytechblog.com/2015/11/04/how-our-css-framework-helps-enforce-accessibility/?utm_source=html5weekly&utm_medium=email
+
 * http://devblog.avdi.org/2011/05/30/null-objects-and-falsiness/
 
 * https://www.youtube.com/watch?v=EzpHeMUBX70  # An appreciation for URLs and doing right by users: Dan Webb interviewed at Fluent 2012
