@@ -3,6 +3,10 @@ todo https://www.youtube.com/watch?v=7i6AL7Walc4&list=WL #  Isomorphic App Devel
 todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=3229  # rais conf 2015 day 1
 
 
+* https://blog.logentries.com/2013/11/where-are-my-aws-logs/ # aws logs
+* https://logentries.com/doc/amazon/
+* http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/using-features.logging.html
+
 * http://blog.celingest.com/en/2013/11/14/replace-lost-keypair-ec2-instance/
 * http://stackoverflow.com/questions/31314559/aws-elastic-beanstalk-cli-does-not-prompt-to-create-new-keypair
 * http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/eb3-ssh.html
