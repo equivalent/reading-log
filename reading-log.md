@@ -2,6 +2,9 @@
 todo https://www.youtube.com/watch?v=7i6AL7Walc4&list=WL #  Isomorphic App Development with Ruby and Volt by Ryan Stout
 todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=3229  # rais conf 2015 day 1
 
+* http://docs.aws.amazon.com/AmazonECS/latest/developerguide/using_data_volumes.html
+* https://docs.docker.com/mac/step_six/  # detaily explaind docker comands
+* https://gist.github.com/dasgoll/476ecc7a057ac885f0be # docker history
 * https://www.youtube.com/watch?v=24U6xP70yhc # Deploy Toshi Bitcoin Node with Docker on AWS 
 * http://stackoverflow.com/questions/14371615/how-do-you-call-dbseed-on-aws-elastic-beanstalk-apps
 * http://www.emind.co/how-to/how-to-run-rake-dbseed-in-amazon-elastic-beanstalk
