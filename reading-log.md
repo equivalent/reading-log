@@ -2,6 +2,9 @@
 todo https://www.youtube.com/watch?v=7i6AL7Walc4&list=WL #  Isomorphic App Development with Ruby and Volt by Ryan Stout
 todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=3229  # rais conf 2015 day 1
 
+
+* https://blog.codeship.com/running-a-private-docker-registry-on-ec2/
+
 * http://www.carlboettiger.info/2014/08/29/docker-notes.html
 * https://www.youtube.com/watch?v=OzLXj2W2Rss # evan brown on Docker on AWS EBS
 * http://www.n2ws.com/blog/how-to-backup-your-aws-cloud-based-postgresql-database.html
