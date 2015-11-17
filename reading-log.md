@@ -2,6 +2,13 @@
 todo https://www.youtube.com/watch?v=7i6AL7Walc4&list=WL #  Isomorphic App Development with Ruby and Volt by Ryan Stout
 todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=3229  # rais conf 2015 day 1
 
+* http://stackoverflow.com/questions/14371615/how-do-you-call-dbseed-on-aws-elastic-beanstalk-apps
+* http://www.emind.co/how-to/how-to-run-rake-dbseed-in-amazon-elastic-beanstalk
+* http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/ebextensions.html
+* https://www.youtube.com/watch?v=OkebD89S2oI&index=22&list=WL # Evan
+  Brown comprehensive Dockern ELB setup
+* https://forums.aws.amazon.com/message.jspa?messageID=666973
+* http://stackoverflow.com/questions/31572970/how-to-run-rails-migrations-and-seeding-in-amazon-elastic-beanstalk-single-conta
 
 * https://blog.codeship.com/running-a-private-docker-registry-on-ec2/
 
