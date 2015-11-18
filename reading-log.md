@@ -2,6 +2,16 @@
 todo https://www.youtube.com/watch?v=7i6AL7Walc4&list=WL #  Isomorphic App Development with Ruby and Volt by Ryan Stout
 todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=3229  # rais conf 2015 day 1
 
+* http://joanswork.com/ebextensions/
+* http://stackoverflow.com/questions/16585898/referencing-env-variables-from-elastic-beanstalk-ebextensions-config-files
+* http://stackoverflow.com/questions/11211007/how-do-you-pass-custom-environment-variable-on-amazon-elastic-beanstalk-aws-ebs
+* http://serverfault.com/questions/737263/should-i-use-different-dockerrun-aws-json-files-for-aws-eb-or-set-enviroment-var
+* http://stackoverflow.com/questions/11211007/how-do-you-pass-custom-environment-variable-on-amazon-elastic-beanstalk-aws-ebs
+* http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/eb3-setenv.html
+* http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/using-features.environments.html
+* https://medium.com/aws-activate-startup-blog/managing-resources-across-multiple-environments-in-aws-7e139351f9c7
+* http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/using-features.managing.html
+
 * http://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_RestoreFromSnapshot.html
 * http://docs.aws.amazon.com/AmazonECS/latest/developerguide/using_data_volumes.html
 * https://docs.docker.com/mac/step_six/  # detaily explaind docker comands
