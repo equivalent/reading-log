@@ -2,6 +2,16 @@
 todo https://www.youtube.com/watch?v=7i6AL7Walc4&list=WL #  Isomorphic App Development with Ruby and Volt by Ryan Stout
 todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=3229  # rais conf 2015 day 1
 
+* https://blog.risingstack.com/shipping-node-js-applications-with-docker-and-codeship/
+* http://docs.travis-ci.com/user/docker/   # build docker image with travis CI
+* https://blog.codeship.com/continuous-integration-and-delivery-with-docker/
+* http://docs.ansible.com/ansible/intro_getting_started.html
+* http://docs.ansible.com/ansible/intro_installation.html#latest-releases-via-apt-ubuntu
+* http://patg.net/ansible,docker/2014/06/20/ansible-docker-image/
+* https://www.youtube.com/watch?v=PDRdCqFp2sY # Continuous Deployment with Ansible
+* https://www.youtube.com/watch?v=NLwA8FZBidk # Ansible Docker Screencast Demo
+* https://www.youtube.com/watch?v=Ip_HoUXsvT4 # circre CI docker setup
+
 * https://coderwall.com/p/2es5jw/docker-cheat-sheet-with-examples
 * http://joanswork.com/ebextensions/
 * http://stackoverflow.com/questions/16585898/referencing-env-variables-from-elastic-beanstalk-ebextensions-config-files
