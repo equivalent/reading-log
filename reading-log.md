@@ -2,6 +2,10 @@
 todo https://www.youtube.com/watch?v=7i6AL7Walc4&list=WL #  Isomorphic App Development with Ruby and Volt by Ryan Stout
 todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=3229  # rais conf 2015 day 1
 
+* https://docs.docker.com/v1.8/userguide/dockerlinks/
+
+* https://aws.amazon.com/ec2/instance-types/ # instance comapre
+
 * https://blog.risingstack.com/shipping-node-js-applications-with-docker-and-codeship/
 * http://docs.travis-ci.com/user/docker/   # build docker image with travis CI
 * https://blog.codeship.com/continuous-integration-and-delivery-with-docker/
