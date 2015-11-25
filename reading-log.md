@@ -2,6 +2,16 @@
 todo https://www.youtube.com/watch?v=7i6AL7Walc4&list=WL #  Isomorphic App Development with Ruby and Volt by Ryan Stout
 todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=3229  # rais conf 2015 day 1
 
+* http://shlomoswidler.com/2009/09/solving-common-elb-problems-with-sanity.html
+* http://blog.celingest.com/en/2014/01/31/aws-elb-internals-security-troubleshooting/
+* http://serverfault.com/questions/738974/aws-elastic-beanstalk-load-balancer-returning-blak-page-after-cloning-eb-envirom/738975#738975
+
+* https://blog.abevoelker.com/simple-free-continuous-integration-of-rails-docker-images-using-fig-make-and-circleci/
+
+* http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/using-features-managing-env-tiers.html#worker-periodictasks
+* https://medium.com/@joelennon/running-cron-jobs-on-amazon-web-services-aws-elastic-beanstalk-a41d91d1c571#.t4k9k1h94
+* http://stackoverflow.com/questions/10061843/how-to-convert-linux-cron-jobs-to-the-amazon-way
+* https://blog.abevoelker.com/why-i-dont-use-docker-much-anymore/
 * http://docs.aws.amazon.com/cli/latest/reference/ec2/revoke-security-group-ingress.html
 * http://docs.aws.amazon.com/cli/latest/userguide/cli-ec2-sg.html
 * http://stackoverflow.com/questions/11551615/how-does-swap-environmental-url-work-exactly
