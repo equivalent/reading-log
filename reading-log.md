@@ -2,6 +2,16 @@
 todo https://www.youtube.com/watch?v=7i6AL7Walc4&list=WL #  Isomorphic App Development with Ruby and Volt by Ryan Stout
 todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=3229  # rais conf 2015 day 1
 
+* http://stackoverflow.com/questions/12280220/custom-url-at-aws-elastic-beanstalk
+* http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/customdomains.html
+* http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/using-features.CNAMESwap.html
+* http://docs.aws.amazon.com/govcloud-us/latest/UserGuide/setting-up-route53-zoneapex-elb.html
+* http://stackoverflow.com/questions/20664018/cloudfront-custom-origin-distribution-returns-502-error-the-request-could-not-b
+* http://www.objectliteral.com/custom-domain-elastic-beanstalk/
+* http://serverfault.com/questions/576461/redirect-non-www-requests-to-www-on-amazon-route-53
+* http://tech.coterie.com/2012/09/zero-downtime-deployments-with-elastic.html
+
+
 * http://shlomoswidler.com/2009/09/solving-common-elb-problems-with-sanity.html
 * http://blog.celingest.com/en/2014/01/31/aws-elb-internals-security-troubleshooting/
 * http://serverfault.com/questions/738974/aws-elastic-beanstalk-load-balancer-returning-blak-page-after-cloning-eb-envirom/738975#738975
