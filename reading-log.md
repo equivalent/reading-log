@@ -2,6 +2,10 @@
 todo https://www.youtube.com/watch?v=7i6AL7Walc4&list=WL #  Isomorphic App Development with Ruby and Volt by Ryan Stout
 todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=3229  # rais conf 2015 day 1
 
+* http://dba.stackexchange.com/questions/27897/struggling-to-debug-high-cpu-usage-on-amazon-rds-mysql-instance
+* https://forums.aws.amazon.com/thread.jspa?messageID=263695
+* https://forums.aws.amazon.com/thread.jspa?threadID=173828&tstart=0#609762
+
 * http://blog.devtable.com/2014/03/link-your-quayio-repositories-to-github.html
 * http://stackoverflow.com/questions/12280220/custom-url-at-aws-elastic-beanstalk
 * http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/customdomains.html
