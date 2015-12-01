@@ -2,6 +2,7 @@
 todo https://www.youtube.com/watch?v=7i6AL7Walc4&list=WL #  Isomorphic App Development with Ruby and Volt by Ryan Stout
 todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=3229  # rais conf 2015 day 1
 
+* http://www.itsprite.com/docker-sharing-precompiled-assets-across-docker-containers/
 * http://ilikestuffblog.com/2014/01/06/how-to-skip-bundle-install-when-deploying-a-rails-app-to-docker/
 
 * https://www.nginx.com/blog/http-keepalives-and-web-performance/
