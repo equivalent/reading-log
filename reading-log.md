@@ -2,6 +2,9 @@
 todo https://www.youtube.com/watch?v=7i6AL7Walc4&list=WL #  Isomorphic App Development with Ruby and Volt by Ryan Stout
 todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=3229  # rais conf 2015 day 1
 
+* http://hgdev.co/installing-ubuntu-15-04-on-the-dell-xps-13-9343-2015-a-complete-guide-update/
+* http://hgdev.co/install-ubuntu-15-10-on-the-dell-xps-13-9343-2015-a-complete-guide/
+
 * https://ariejan.net/2010/08/23/resque-how-to-requeue-failed-jobs/
 * http://www.rubydoc.info/gems/resque/Resque/Failure
 
