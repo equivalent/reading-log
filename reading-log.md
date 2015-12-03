@@ -2,6 +2,9 @@
 todo https://www.youtube.com/watch?v=7i6AL7Walc4&list=WL #  Isomorphic App Development with Ruby and Volt by Ryan Stout
 todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=3229  # rais conf 2015 day 1
 
+* https://ariejan.net/2010/08/23/resque-how-to-requeue-failed-jobs/
+* http://www.rubydoc.info/gems/resque/Resque/Failure
+
 * https://discuss.elastic.co/t/mapping-definition-has-unsupported-analyzer-upgrade-to-2-0/33835
 * https://www.elastic.co/guide/en/elasticsearch/reference/current/breaking_20_removed_features.html
 * http://www.itsprite.com/docker-sharing-precompiled-assets-across-docker-containers/
