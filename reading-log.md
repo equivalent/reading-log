@@ -2,6 +2,8 @@
 todo https://www.youtube.com/watch?v=7i6AL7Walc4&list=WL #  Isomorphic App Development with Ruby and Volt by Ryan Stout
 todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=3229  # rais conf 2015 day 1
 
+* https://discuss.elastic.co/t/mapping-definition-has-unsupported-analyzer-upgrade-to-2-0/33835
+* https://www.elastic.co/guide/en/elasticsearch/reference/current/breaking_20_removed_features.html
 * http://www.itsprite.com/docker-sharing-precompiled-assets-across-docker-containers/
 * http://ilikestuffblog.com/2014/01/06/how-to-skip-bundle-install-when-deploying-a-rails-app-to-docker/
 
