@@ -2,6 +2,15 @@
 todo https://www.youtube.com/watch?v=7i6AL7Walc4&list=WL #  Isomorphic App Development with Ruby and Volt by Ryan Stout
 todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=3229  # rais conf 2015 day 1
 
+
+* http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/AWSHowTo.iam.policies.arn.html
+* http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/AWSHowTo.iam.policies.html
+* http://stackoverflow.com/questions/32978026/proper-access-policy-for-amazon-elastic-search-cluster
+* http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/AWSHowTo.iam.roles.aeb.tiers.html
+* http://docs.aws.amazon.com/general/latest/gr/acct-identifiers.html
+* http://docs.aws.amazon.com/general/latest/gr/aws-arns-and-namespaces.html
+* http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/AWSHowTo.iam.roles.aeb.html
+
 * http://williamdurand.fr/2014/02/14/please-do-not-patch-like-an-idiot/
 
 * https://blog.pivotal.io/labs/labs/rspec-elasticsearchruby-elasticsearchmodel
