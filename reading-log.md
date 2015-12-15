@@ -3,6 +3,10 @@ todo https://www.youtube.com/watch?v=7i6AL7Walc4&list=WL #  Isomorphic App Devel
 todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=3229  # rais conf 2015 day 1
 
 
+* https://git-scm.com/book/en/v2/Git-Basics-Tagging
+* https://confluence.atlassian.com/bitbucket/how-do-i-remove-or-delete-a-tag-from-a-git-repo-282175551.html
+* http://stackoverflow.com/questions/1404796/how-to-get-the-latest-tag-name-in-current-branch-in-git
+
 * http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/AWSHowTo.iam.policies.arn.html
 * http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/AWSHowTo.iam.policies.html
 * http://stackoverflow.com/questions/32978026/proper-access-policy-for-amazon-elastic-search-cluster
