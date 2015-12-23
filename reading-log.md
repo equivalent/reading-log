@@ -2,6 +2,8 @@
 todo https://www.youtube.com/watch?v=7i6AL7Walc4&list=WL #  Isomorphic App Development with Ruby and Volt by Ryan Stout
 todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=3229  # rais conf 2015 day 1
 
+* http://stackoverflow.com/questions/24871111/amazon-s3-static-website-redirect-https-to-http
+
 *  http://www.thegeekstuff.com/2010/12/5-ways-to-execute-linux-command/
 
 * http://www.cyberciti.biz/faq/unix-linux-bsd-appleosx-bash-assign-variable-command-output/
