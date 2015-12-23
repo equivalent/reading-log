@@ -2,6 +2,12 @@
 todo https://www.youtube.com/watch?v=7i6AL7Walc4&list=WL #  Isomorphic App Development with Ruby and Volt by Ryan Stout
 todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=3229  # rais conf 2015 day 1
 
+* https://docs.aws.amazon.com/AmazonS3/latest/dev/HowDoIWebsiteConfiguration.html
+* http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-properties-s3-websiteconfiguration.html
+* http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-properties-s3-websiteconfiguration.html#d0e90299
+* http://joonhachu.blogspot.co.uk/2010/09/helpful-tip-for-amazon-s3-urls-for-ssl.html
+* http://stackoverflow.com/questions/3048236/amazon-s3-https-ssl-is-it-possible
+* http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-properties-s3-websiteconfiguration-redirectallrequeststo.html
 * http://stackoverflow.com/questions/2786595/what-is-the-correct-http-status-code-to-send-when-a-site-is-down-for-maintenance
 * https://hub.docker.com/_/nginx/
 * http://stackoverflow.com/questions/24871111/amazon-s3-static-website-redirect-https-to-http
