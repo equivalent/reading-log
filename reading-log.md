@@ -2,6 +2,8 @@
 todo https://www.youtube.com/watch?v=7i6AL7Walc4&list=WL #  Isomorphic App Development with Ruby and Volt by Ryan Stout
 todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=3229  # rais conf 2015 day 1
 
+* http://stackoverflow.com/questions/2786595/what-is-the-correct-http-status-code-to-send-when-a-site-is-down-for-maintenance
+* https://hub.docker.com/_/nginx/
 * http://stackoverflow.com/questions/24871111/amazon-s3-static-website-redirect-https-to-http
 
 *  http://www.thegeekstuff.com/2010/12/5-ways-to-execute-linux-command/
