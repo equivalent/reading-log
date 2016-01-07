@@ -2,6 +2,12 @@
 todo https://www.youtube.com/watch?v=7i6AL7Walc4&list=WL #  Isomorphic App Development with Ruby and Volt by Ryan Stout
 todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=3229  # rais conf 2015 day 1
 
+
+* http://docs.aws.amazon.com/codedeploy/latest/userguide/getting-started-wordpress.html
+* https://tommcfarlin.com/continuous-deployment-wordpress/
+* https://codeship.com/documentation/faq/access-to-other-repositories-fails-during-build/
+* https://codeship.com/documentation/continuous-deployment/deployment-with-ftp-sftp-scp/
+
 * http://stackoverflow.com/questions/18193946/cascading-inherited-shared-rails-configuration-environments
 * https://signalvnoise.com/posts/3535-beyond-the-default-rails-environments
 
