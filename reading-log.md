@@ -3,6 +3,7 @@ todo https://www.youtube.com/watch?v=7i6AL7Walc4&list=WL #  Isomorphic App Devel
 todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=3229  # rais conf 2015 day 1
 
 * https://devcenter.heroku.com/articles/concurrency-and-database-connections#connection-pool
+* https://devcenter.heroku.com/articles/concurrency-and-database-connections#threaded-servers
 
 * https://www.digitalocean.com/community/tutorials/how-to-deploy-a-rails-app-with-puma-and-nginx-on-ubuntu-14-04
 
