@@ -2,6 +2,15 @@
 todo https://www.youtube.com/watch?v=7i6AL7Walc4&list=WL #  Isomorphic App Development with Ruby and Volt by Ryan Stout
 todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=3229  # rais conf 2015 day 1
 
+* http://stackoverflow.com/questions/7328423/does-paperclip-automatically-clean-up-filenames
+* http://www.davesouth.org/blog/rails/make-url-friendly-filenames-in-paperclip-attachments
+
+* http://stackoverflow.com/questions/7328423/does-paperclip-automatically-clean-up-filenames
+* https://forum.upcase.com/t/randomize-filenames-for-paperclip-upload/2218
+* https://github.com/thoughtbot/paperclip/wiki/Restricting-Access-to-Objects-Stored-on-Amazon-S3
+* https://github.com/thoughtbot/paperclip/wiki/Hashing
+* http://stackoverflow.com/questions/24521397/paperclip-gem-how-to-get-the-hash-of-the-generated-filename
+
 * https://devcenter.heroku.com/articles/concurrency-and-database-connections#connection-pool
 * https://devcenter.heroku.com/articles/concurrency-and-database-connections#threaded-servers
 
