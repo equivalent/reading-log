@@ -3,6 +3,10 @@ todo https://www.youtube.com/watch?v=7i6AL7Walc4&list=WL #  Isomorphic App Devel
 todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=3229  # rais conf 2015 day 1
 
 
+* https://www.youtube.com/watch?v=971qGsTPs8M
+* https://moz.com/blog/15-seo-best-practices-for-structuring-urls
+* http://webmasters.stackexchange.com/questions/65754/which-url-is-better-for-google-seo-recursively-or-directly
+
 * https://www.elastic.co/guide/en/elasticsearch/guide/current/multi-query-strings.html
 
 * http://www.sysdig.org/install/
