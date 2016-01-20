@@ -2,6 +2,12 @@
 todo https://www.youtube.com/watch?v=7i6AL7Walc4&list=WL #  Isomorphic App Development with Ruby and Volt by Ryan Stout
 todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=3229  # rais conf 2015 day 1
 
+* https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/environment-cfg-manifest.html
+* https://github.com/hopsoft/relay/wiki/How-to-Deploy-Docker-apps-to-Elastic-Beanstalk
+* https://github.com/aws/amazon-ecs-agent
+* https://docs.docker.com/registry/configuration/
+* http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_docker_image.html
+
 * http://www.infoworld.com/article/2825890/application-development/why-redis-beats-memcached-for-caching.html
 * https://www.youtube.com/watch?v=971qGsTPs8M
 * https://moz.com/blog/15-seo-best-practices-for-structuring-urls
