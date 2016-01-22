@@ -2,6 +2,14 @@
 todo https://www.youtube.com/watch?v=7i6AL7Walc4&list=WL #  Isomorphic App Development with Ruby and Volt by Ryan Stout
 todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=3229  # rais conf 2015 day 1
 
+* http://docs.aws.amazon.com/AmazonECS/latest/developerguide/troubleshooting.html#stopped-task-errors
+* https://forums.aws.amazon.com/thread.jspa?threadID=214767
+* http://docs.aws.amazon.com/AmazonECS/latest/developerguide/troubleshooting.html#stopped-task-errors
+* https://www.ctl.io/developers/blog/post/gracefully-stopping-docker-containers/
+* https://github.com/docker/docker/blob/609e7b0a55d4082fce40eabae3a06ca57c188ba5/docs/reference/run.md#logging-drivers---log-driver
+* http://docs.aws.amazon.com/AmazonECS/latest/developerguide/ecs-agent-config.html
+* http://docs.aws.amazon.com/AmazonECS/latest/developerguide/troubleshooting.html
+
 * https://medium.com/@davedash/writing-a-space-ignoring-autocompleter-with-elasticsearch-6c3c28e3a974#.bia9gmud4
 * https://www.elastic.co/guide/en/elasticsearch/guide/current/_combining_queries_with_filters.html
 * https://www.elastic.co/guide/en/elasticsearch/guide/current/_most_important_queries_and_filters.html
