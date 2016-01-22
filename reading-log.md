@@ -2,6 +2,14 @@
 todo https://www.youtube.com/watch?v=7i6AL7Walc4&list=WL #  Isomorphic App Development with Ruby and Volt by Ryan Stout
 todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=3229  # rais conf 2015 day 1
 
+* https://medium.com/@davedash/writing-a-space-ignoring-autocompleter-with-elasticsearch-6c3c28e3a974#.bia9gmud4
+* https://www.elastic.co/guide/en/elasticsearch/guide/current/_combining_queries_with_filters.html
+* https://www.elastic.co/guide/en/elasticsearch/guide/current/_most_important_queries_and_filters.html
+* http://stackoverflow.com/questions/25258121/elasticsearch-rails-setting-a-custom-analyzer
+* https://github.com/elastic/elasticsearch-rails/wiki
+* https://www.elastic.co/guide/en/elasticsearch/reference/current/_multi_fields.html#_multi_fields
+* http://stackoverflow.com/questions/24189381/elasticsearch-count-terms-ignoring-spaces
+
 * http://stackoverflow.com/questions/25968771/specifying-docker-daemon-host-in-elastic-beanstalk
 
 * http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/environment-configuration-savedconfig.html
