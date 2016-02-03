@@ -2,6 +2,11 @@
 todo https://www.youtube.com/watch?v=7i6AL7Walc4&list=WL #  Isomorphic App Development with Ruby and Volt by Ryan Stout
 todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=3229  # rais conf 2015 day 1
 
+* http://stackoverflow.com/questions/17051709/no-mapping-found-for-field-in-order-to-sort-on-in-elasticsearch
+* https://www.elastic.co/guide/en/elasticsearch/reference/current/search-request-sort.html
+
+* http://hone.herokuapp.com/resque/2012/08/21/resque-signals.html
+
 * https://devcenter.heroku.com/articles/using-amazon-cloudfront-cdn
 
 * http://docs.aws.amazon.com/AmazonECS/latest/developerguide/troubleshooting.html#stopped-task-errors
