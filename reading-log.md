@@ -2,6 +2,10 @@
 todo https://www.youtube.com/watch?v=7i6AL7Walc4&list=WL #  Isomorphic App Development with Ruby and Volt by Ryan Stout
 todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=3229  # rais conf 2015 day 1
 
+* https://aws.amazon.com/articles/1434
+* https://devcenter.heroku.com/articles/direct-to-s3-image-uploads-in-rails
+* http://blog.littleblimp.com/post/53942611764/direct-uploads-to-s3-with-rails-paperclip-and
+* https://github.com/waynehoover/s3_direct_upload
 * http://www.checkupdown.com/status/E504.html
 * https://medium.com/@fbzga/how-to-cache-bundle-install-with-docker-7bed453a5800#.gdyfzi6fr
 
