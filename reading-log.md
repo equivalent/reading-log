@@ -2,7 +2,7 @@
 todo https://www.youtube.com/watch?v=7i6AL7Walc4&list=WL #  Isomorphic App Development with Ruby and Volt by Ryan Stout
 todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=3229  # rais conf 2015 day 1
 
-
+* https://css-tricks.com/bem-101/
 * https://github.com/phusion/traveling-ruby/blob/master/TUTORIAL-1.md
 * https://aws.amazon.com/blogs/compute/running-executables-in-aws-lambda/
 * http://phusion.github.io/traveling-ruby/
