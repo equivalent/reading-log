@@ -2,6 +2,21 @@
 todo https://www.youtube.com/watch?v=7i6AL7Walc4&list=WL #  Isomorphic App Development with Ruby and Volt by Ryan Stout
 todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=3229  # rais conf 2015 day 1
 
+* http://docs.aws.amazon.com/AmazonS3/latest/dev/ways-to-add-notification-config-to-bucket.html#step1-create-sqs-queue-for-notification
+* https://github.com/equivalent/aws-sdk-ruby/blob/patch-1/developer_guide/content/sections/sqs.md
+* https://docs.aws.amazon.com/AmazonS3/latest/dev/ways-to-add-notification-config-to-bucket.html#notification-walkthrough-1-test
+* http://blog.fineuploader.com/2013/08/16/fine-uploader-s3-upload-directly-to-amazon-s3-from-your-browser/
+* https://aws.amazon.com/blogs/compute/running-executables-in-aws-lambda/
+* https://github.com/phusion/traveling-ruby
+* https://www.krautcomputing.com/blog/2016/02/29/how-to-run-ruby-scripts-on-aws-lambda-using-ansible/?utm_source=rubyweekly&utm_medium=email
+* https://devcenter.heroku.com/articles/direct-to-s3-image-uploads-in-rails#example-app
+* https://devcenter.heroku.com/articles/s31
+* https://ruby.awsblog.com/post/TxVOTODBPHAEP9/Working-with-Regions
+* http://docs.aws.amazon.com/sdkforruby/api/Aws/SQS/QueuePoller.html
+* http://docs.aws.amazon.com/sdkforruby/api/Aws/SQS.html
+* http://docs.aws.amazon.com/AWSRubySDK/latest/AWS/SQS.html
+* https://leonid.shevtsov.me/en/demystifying-s3-browser-upload
+* http://stackoverflow.com/questions/13681213/what-is-the-difference-between-amazon-sns-and-amazon-sqs
 * https://css-tricks.com/bem-101/
 * https://github.com/phusion/traveling-ruby/blob/master/TUTORIAL-1.md
 * https://aws.amazon.com/blogs/compute/running-executables-in-aws-lambda/
