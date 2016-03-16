@@ -2,6 +2,9 @@
 todo https://www.youtube.com/watch?v=7i6AL7Walc4&list=WL #  Isomorphic App Development with Ruby and Volt by Ryan Stout
 todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=3229  # rais conf 2015 day 1
 
+* https://github.com/turnkeylinux/aws-datacenters
+* https://www.turnkeylinux.org/blog/geoip-amazon-regions
+
 * http://stackoverflow.com/questions/25798013/how-do-i-schedule-recurring-jobs-in-active-job-rails-4-2
 * https://github.com/equivalent/aws-sdk-ruby/blob/patch-1/developer_guide/content/sections/sqs.md
 * https://github.com/phstc/shoryuken
