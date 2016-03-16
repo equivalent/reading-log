@@ -2,6 +2,11 @@
 todo https://www.youtube.com/watch?v=7i6AL7Walc4&list=WL #  Isomorphic App Development with Ruby and Volt by Ryan Stout
 todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=3229  # rais conf 2015 day 1
 
+* http://stackoverflow.com/questions/25798013/how-do-i-schedule-recurring-jobs-in-active-job-rails-4-2
+* https://github.com/equivalent/aws-sdk-ruby/blob/patch-1/developer_guide/content/sections/sqs.md
+* https://github.com/phstc/shoryuken
+* https://github.com/JustinAiken/active_scheduler
+
 * http://www.bucketexplorer.com/documentation/amazon-s3--amazon-s3-objects-metadata-http-header.html
 * http://docs.aws.amazon.com/AmazonS3/latest/dev/notification-content-structure.html
 * https://blogs.aws.amazon.com/php/post/Tx2CO24DVG9CAK0/Testing-Webhooks-Locally-for-Amazon-SNS
