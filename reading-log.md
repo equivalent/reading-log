@@ -2,6 +2,9 @@
 todo https://www.youtube.com/watch?v=7i6AL7Walc4&list=WL #  Isomorphic App Development with Ruby and Volt by Ryan Stout
 todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=3229  # rais conf 2015 day 1
 
+* https://blog.engineyard.com/2014/getting-started-with-active-job
+* http://edgeguides.rubyonrails.org/active_job_basics.html
+
 * https://github.com/waynehoover/s3_direct_upload/blob/master/spec/helpers/form_helper_spec.rb
 * http://stackoverflow.com/questions/13390343/s3-direct-upload-restricting-file-size-and-type
 
