@@ -2,6 +2,8 @@
 todo https://www.youtube.com/watch?v=7i6AL7Walc4&list=WL #  Isomorphic App Development with Ruby and Volt by Ryan Stout
 todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=3229  # rais conf 2015 day 1
 
+* https://ruby.awsblog.com/post/Tx116N5YWW4WJ8I/Faster-AWS-Tests-with-VCR
+* http://stackoverflow.com/questions/16380426/how-to-mock-aws-sdk-gem
 * https://blog.engineyard.com/2014/getting-started-with-active-job
 * http://edgeguides.rubyonrails.org/active_job_basics.html
 
