@@ -2,6 +2,9 @@
 todo https://www.youtube.com/watch?v=7i6AL7Walc4&list=WL #  Isomorphic App Development with Ruby and Volt by Ryan Stout
 todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=3229  # rais conf 2015 day 1
 
+* http://eng.bleacherreport.com/2015/02/elastic-beanstalk-under-the-hood/
+* http://junkheap.net/blog/2013/05/20/elastic-beanstalk-post-deployment-scripts/
+
 * http://hone.herokuapp.com/resque/2012/08/21/resque-signals.html
 * http://www.alfredo.motta.name/understanding-the-resque-internals-resquedirtyexit-unveiled/
 
