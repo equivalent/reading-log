@@ -3,6 +3,7 @@ todo https://www.youtube.com/watch?v=7i6AL7Walc4&list=WL #  Isomorphic App Devel
 todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=3229  # rais conf 2015 day 1
 
 * http://hone.herokuapp.com/resque/2012/08/21/resque-signals.html
+* http://www.alfredo.motta.name/understanding-the-resque-internals-resquedirtyexit-unveiled/
 
 * http://railsware.com/blog/2013/10/03/custom-vcr-matchers-for-dealing-with-mutable-http-requests/
 * https://github.com/rails/rails/issues/14659
