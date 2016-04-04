@@ -2,6 +2,8 @@
 todo https://www.youtube.com/watch?v=7i6AL7Walc4&list=WL #  Isomorphic App Development with Ruby and Volt by Ryan Stout
 todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=3229  # rais conf 2015 day 1
 
+* https://github.com/verygood-ops/eb_docker
+* http://www.jmccc.com/blog/archives/2015/06/17/amazon-elastic-beanstalk-hooks/
 * http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/customize-containers-ec2.html
 * http://stackoverflow.com/questions/26797651/creation-of-ebextensions-folder-in-aws-elastic-beanstalk
 * http://eng.bleacherreport.com/2015/02/elastic-beanstalk-under-the-hood/
