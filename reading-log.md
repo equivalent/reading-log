@@ -2,6 +2,11 @@
 todo https://www.youtube.com/watch?v=7i6AL7Walc4&list=WL #  Isomorphic App Development with Ruby and Volt by Ryan Stout
 todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=3229  # rais conf 2015 day 1
 
+
+
+* http://docs.aws.amazon.com/sdkforruby/api/Aws/S3/PresignedPost.html#expires-instance_method
+* http://docs.aws.amazon.com/AWSRubySDK/latest/AWS/S3/PresignedPost.html#expires-instance_method
+* https://leonid.shevtsov.me/en/demystifying-s3-browser-upload
 * https://robm.me.uk/ruby/2013/11/20/ruby-enp.html
 
 * https://abhilashak.com/2014/09/08/rails-paperclip-error-there-was-an-error-processing-the-thumbnail-for-paperclip-reprocess/
