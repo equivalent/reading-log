@@ -2,6 +2,8 @@
 todo https://www.youtube.com/watch?v=7i6AL7Walc4&list=WL #  Isomorphic App Development with Ruby and Volt by Ryan Stout
 todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=3229  # rais conf 2015 day 1
 
+* https://robm.me.uk/ruby/2013/11/20/ruby-enp.html
+
 * https://abhilashak.com/2014/09/08/rails-paperclip-error-there-was-an-error-processing-the-thumbnail-for-paperclip-reprocess/
 * http://blog.sundaycoding.com/blog/2014/02/05/fighting-paperclip-errno-enomem-error/
 
