@@ -3,6 +3,7 @@ todo https://www.youtube.com/watch?v=7i6AL7Walc4&list=WL #  Isomorphic App Devel
 todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=3229  # rais conf 2015 day 1
 
 
+* https://en.wikipedia.org/wiki/IPv4_subnetting_reference
 
 * http://docs.aws.amazon.com/sdkforruby/api/Aws/S3/PresignedPost.html#expires-instance_method
 * http://docs.aws.amazon.com/AWSRubySDK/latest/AWS/S3/PresignedPost.html#expires-instance_method
