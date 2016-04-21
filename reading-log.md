@@ -2,6 +2,8 @@
 todo https://www.youtube.com/watch?v=7i6AL7Walc4&list=WL #  Isomorphic App Development with Ruby and Volt by Ryan Stout
 todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=3229  # rais conf 2015 day 1
 
+* http://blog.codeship.com/the-json-api-spec/?utm_campaign=Weekly%20Newsletters&utm_content=Building%20Rails%20API%20JSON
+* https://blog.codeship.com/a-deep-dive-into-ruby-scopes/?utm_campaign=Weekly%20Newsletters&utm_content=ruby%20scope%20deepdive&utm_medium=newsletter&utm_source=email
 
 * https://en.wikipedia.org/wiki/IPv4_subnetting_reference
 
