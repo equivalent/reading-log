@@ -2,6 +2,11 @@
 todo https://www.youtube.com/watch?v=7i6AL7Walc4&list=WL #  Isomorphic App Development with Ruby and Volt by Ryan Stout
 todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=3229  # rais conf 2015 day 1
 
+
+* https://aws.amazon.com/about-aws/whats-new/2016/04/aws-elastic-beanstalk-introduces-managed-platform-updates/?sc_channel=em
+* http://aws.amazon.com/about-aws/whats-new/2016/04/amazon-kinesis-firehose-adds-amazon-elasticsearch-data-ingestion-and-enhanced-monitoring-features/
+* https://live.awsevents.com/?sc_channel=em&sc_campaign=chicagosummit2016&sc_publisher=aws&sc_medium=em_13869&sc_content=launch_t1launch_tier1&sc_country=global&sc_geo=global&sc_category=mult&sc_outcome=launch
+
 * http://blog.codeship.com/the-json-api-spec/?utm_campaign=Weekly%20Newsletters&utm_content=Building%20Rails%20API%20JSON
 * https://blog.codeship.com/a-deep-dive-into-ruby-scopes/?utm_campaign=Weekly%20Newsletters&utm_content=ruby%20scope%20deepdive&utm_medium=newsletter&utm_source=email
 
