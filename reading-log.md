@@ -2,6 +2,7 @@
 todo https://www.youtube.com/watch?v=7i6AL7Walc4&list=WL #  Isomorphic App Development with Ruby and Volt by Ryan Stout
 todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=3229  # rais conf 2015 day 1
 
+* http://stackoverflow.com/questions/28865407/cant-expose-a-fuse-based-volume-to-a-docker-container
 
 * https://aws.amazon.com/about-aws/whats-new/2016/04/aws-elastic-beanstalk-introduces-managed-platform-updates/?sc_channel=em
 * http://aws.amazon.com/about-aws/whats-new/2016/04/amazon-kinesis-firehose-adds-amazon-elasticsearch-data-ingestion-and-enhanced-monitoring-features/
