@@ -3,6 +3,9 @@ todo https://www.youtube.com/watch?v=7i6AL7Walc4&list=WL #  Isomorphic App Devel
 todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=3229  # rais conf 2015 day 1
 
 * https://bryanrite.com/heroku-puma-redis-sidekiq-and-connection-limits/
+* http://jc00ke.com/2013/02/16/activerecord-connection-pool-on-heroku-with-puma-and-sidekiq/
+* https://github.com/mperham/sidekiq/issues/298  # sidekiq heroku connections
+* https://github.com/mperham/sidekiq/issues/117  # sidekiq heroku  connections
 
 * http://stackoverflow.com/questions/28865407/cant-expose-a-fuse-based-volume-to-a-docker-container
 
