@@ -6,6 +6,7 @@ todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=322
 * https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-bool-query.html
 * https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-filtered-query.html>
 * https://www.elastic.co/guide/en/elasticsearch/guide/current/_queries_and_filters.html
+* https://www.sitepoint.com/full-text-search-rails-elasticsearch/
 
 * http://www.ybrikman.com/writing/2015/05/19/docker-osx-dev/ 
 
