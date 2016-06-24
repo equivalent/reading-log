@@ -2,6 +2,11 @@
 todo https://www.youtube.com/watch?v=7i6AL7Walc4&list=WL #  Isomorphic App Development with Ruby and Volt by Ryan Stout
 todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=3229  # rais conf 2015 day 1
 
+* https://github.com/elastic/elasticsearch-rails/blob/master/elasticsearch-persistence/examples/music/suggester.rb
+* https://github.com/elastic/elasticsearch-rails/commit/ded20356920802c35d258756113acfd95b25ade6 # karmi example of elasticserach suggester
+* https://www.elastic.co/blog/you-complete-me
+* https://www.elastic.co/guide/en/elasticsearch/reference/current/search-suggesters-completion.html
+
 * https://www.digitalocean.com/community/questions/convert-run-at-startup-script-from-upstart-to-systemd-for-ubuntu-16
 * https://bitcointalk.org/index.php?topic=304362.0
 
