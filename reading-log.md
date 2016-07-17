@@ -2,6 +2,9 @@
 todo https://www.youtube.com/watch?v=7i6AL7Walc4&list=WL #  Isomorphic App Development with Ruby and Volt by Ryan Stout
 todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=3229  # rais conf 2015 day 1
 
+* https://blog.heroku.com/row_limits_for_dev_plan_and_introducing_the_basic_plan_
+* https://devcenter.heroku.com/articles/upgrading-heroku-postgres-databases
+
 * https://www.youtube.com/watch?v=0dosmKwrAbI&feature=youtu.be liverpool   profesor on brexit
 * https://www.youtube.com/watch?v=0CDXJ6bMkMY&feature=youtu.be  dhh on  startups 
 
