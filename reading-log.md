@@ -2,6 +2,12 @@
 todo https://www.youtube.com/watch?v=7i6AL7Walc4&list=WL #  Isomorphic App Development with Ruby and Volt by Ryan Stout
 todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=3229  # rais conf 2015 day 1
 
+* http://www.phoenixframework.org/docs/installation
+* http://www.phoenixframework.org/docs/up-and-running
+* http://www.phoenixframework.org/docs/adding-pages
+* https://semaphoreci.com/community/tutorials/test-driven-apis-with-phoenix-and-elixir
+* http://www.phoenixframework.org/docs/ecto-models
+
 * https://www.compose.com/articles/how-scoring-works-in-elasticsearch/
 * https://www.quora.com/In-Elasticsearch-how-do-I-get-a-list-of-the-top-10-most-frequently-occurring-values-of-a-field
 
