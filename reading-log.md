@@ -2,6 +2,15 @@
 todo https://www.youtube.com/watch?v=7i6AL7Walc4&list=WL #  Isomorphic App Development with Ruby and Volt by Ryan Stout
 todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=3229  # rais conf 2015 day 1
 
+* https://www.youtube.com/watch?v=DngAZyWMGR0 # martin f. on  archhitecture
+* http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/using-features.managing.sns.html
+* http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/environments-console.html
+* http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/using-features.events.html
+* https://medium.com/cohealo-engineering/how-set-up-a-slack-channel-to-be-an-aws-sns-subscriber-63b4d57ad3ea#.vgegn8rir
+* http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/using-features.managing.sns.html
+* http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/using-features.events.html
+* https://medium.com/cohealo-engineering/how-set-up-a-slack-channel-to-be-an-aws-sns-subscriber-63b4d57ad3ea#.vgegn8rir
+
 * http://cloudless.pl/articles/29-is-phoenix-deployment-really-that-hard
 
 * www.higherorderheroku.com/articles/cloudflare-dns-heroku/1
