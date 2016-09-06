@@ -2,6 +2,8 @@
 todo https://www.youtube.com/watch?v=7i6AL7Walc4&list=WL #  Isomorphic App Development with Ruby and Volt by Ryan Stout
 todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=3229  # rais conf 2015 day 1
 
+* http://cloudless.pl/articles/29-is-phoenix-deployment-really-that-hard
+
 * www.higherorderheroku.com/articles/cloudflare-dns-heroku/1
 
 * http://use-the-index-luke.com/blog/2016-07-29/on-ubers-choice-of-databases
