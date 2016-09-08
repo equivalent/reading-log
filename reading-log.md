@@ -2,6 +2,11 @@
 todo https://www.youtube.com/watch?v=7i6AL7Walc4&list=WL #  Isomorphic App Development with Ruby and Volt by Ryan Stout
 todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=3229  # rais conf 2015 day 1
 
+* https://www.youtube.com/watch?v=IDm71SR58xw # Serverless Introduction:  What is the serverless architecture?
+* https://www.youtube.com/watch?v=Irlw-LGIJO4 # YOW! Nights March 2016  Martin Fowler - Microservices
+
+
+
 * https://www.youtube.com/watch?v=DngAZyWMGR0 # martin f. on  archhitecture
 * http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/using-features.managing.sns.html
 * http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/environments-console.html
