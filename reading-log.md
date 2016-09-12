@@ -2,6 +2,9 @@
 todo https://www.youtube.com/watch?v=7i6AL7Walc4&list=WL #  Isomorphic App Development with Ruby and Volt by Ryan Stout
 todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=3229  # rais conf 2015 day 1
 
+* https://devcenter.heroku.com/articles/ruby-memory-use#gc-tuning  R14 issue with ruby memory puma
+* https://www.schneems.com/2015/05/11/how-ruby-uses-memory.html
+
 * https://www.youtube.com/watch?v=ueAef9tNUck # YOW! Nights March 2016  Martin Fowler - Infrastructure As Code
 
 * https://www.youtube.com/watch?v=IDm71SR58xw # Serverless Introduction:  What is the serverless architecture?
