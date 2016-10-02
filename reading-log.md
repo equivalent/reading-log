@@ -2,6 +2,13 @@
 todo https://www.youtube.com/watch?v=7i6AL7Walc4&list=WL #  Isomorphic App Development with Ruby and Volt by Ryan Stout
 todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=3229  # rais conf 2015 day 1
 
+
+* http://stackoverflow.com/questions/23272611/make-cors-ajax-requests-using-xmlhttprequest/23272690#23272690
+* http://stackoverflow.com/questions/17478731/whats-the-point-of-the-x-requested-with-header
+* http://www.html5rocks.com/en/tutorials/cors/
+* https://developer.mozilla.org/en-US/docs/Web/HTML/CORS_enabled_image
+* https://aws.amazon.com/blogs/aws/amazon-s3-cross-origin-resource-sharing/
+
 * http://singlebrook.com/blog/cloudfront-cdn-with-rails-on-heroku
 * http://www.happybearsoftware.com/use-cloudfront-and-the-rails-asset-pipeline-to-speed-up-your-app.html
 
