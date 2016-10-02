@@ -2,6 +2,15 @@
 todo https://www.youtube.com/watch?v=7i6AL7Walc4&list=WL #  Isomorphic App Development with Ruby and Volt by Ryan Stout
 todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=3229  # rais conf 2015 day 1
 
+* http://dev.mensfeld.pl/2015/01/ruby-on-rails-and-dragonfly-processed-elements-tracking-with-two-layer-cache-memcached-na-activerecord-underneath/
+* http://markevans.github.io/dragonfly/cache/
+* https://github.com/markevans/dragonfly/issues/250
+* https://github.com/markevans/dragonfly/issues/43
+* http://stackoverflow.com/questions/17656999/how-to-cache-files-over-1mb-with-rack-cache-on-heroku
+* https://devcenter.heroku.com/articles/memcachier#rails-3-and-4
+* http://dev.mensfeld.pl/2015/01/ruby-on-rails-and-dragonfly-processed-elements-tracking-with-two-layer-cache-memcached-na-activerecord-underneath/
+* http://markevans.github.io/dragonfly/rails/#caching
+
 
 * http://stackoverflow.com/questions/23272611/make-cors-ajax-requests-using-xmlhttprequest/23272690#23272690
 * http://stackoverflow.com/questions/17478731/whats-the-point-of-the-x-requested-with-header
