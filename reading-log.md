@@ -2,6 +2,8 @@
 todo https://www.youtube.com/watch?v=7i6AL7Walc4&list=WL #  Isomorphic App Development with Ruby and Volt by Ryan Stout
 todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=3229  # rais conf 2015 day 1
 
+* https://www.youtube.com/watch?v=W7wj7EDrSko
+
 * http://www.phrack.org/issues/69/12.html#article
 
 * https://www.youtube.com/watch?v=cA2btTHKPMY&spfreload=1
