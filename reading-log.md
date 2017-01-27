@@ -2,6 +2,8 @@
 todo https://www.youtube.com/watch?v=7i6AL7Walc4&list=WL #  Isomorphic App Development with Ruby and Volt by Ryan Stout
 todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=3229  # rais conf 2015 day 1
 
+* http://blog.testdouble.com/posts/2017-01-18-life-after-nil.html?utm_source=rubyweekly&utm_medium=email  haskal type system ruby
+
 * http://blog.alex-miller.co/ruby/2016/12/24/what-can-daru-do-for-you.html
 * https://blog.elpassion.com/simple-and-terrifying-encryption-story-c1f1d6707c07#.ytoxdn6o2
 * https://www.youtube.com/watch?v=W7wj7EDrSko
