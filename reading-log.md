@@ -2,6 +2,10 @@
 todo https://www.youtube.com/watch?v=7i6AL7Walc4&list=WL #  Isomorphic App Development with Ruby and Volt by Ryan Stout
 todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=3229  # rais conf 2015 day 1
 
+* https://www.youtube.com/watch?v=SEvO1Gqd34Y # kibana define bar chart
+  in kibana 4
+
+* https://risingstars2016.js.org/ # js highlites of 2016
 * https://www.youtube.com/watch?v=57UK46qfBLY # Microservices at Netflix   Scale: Principles, Tradeoffs & Lessons Learned • R. Meshenberg
 * http://blog.testdouble.com/posts/2017-01-18-life-after-nil.html?utm_source=rubyweekly&utm_medium=email # haskal type system ruby
 * https://www.youtube.com/watch?v=Z8aECe4lp44 # not just code monkeys
