@@ -4,6 +4,7 @@ todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=322
 
 * https://www.youtube.com/watch?v=SEvO1Gqd34Y # kibana define bar chart
   in kibana 4
+* https://davejlong.com/2017/01/27/playing-with-elixir-pipes/?utm_campaign=elixir_radar_84&utm_medium=email&utm_source=RD+Station
 
 * https://risingstars2016.js.org/ # js highlites of 2016
 * https://www.youtube.com/watch?v=57UK46qfBLY # Microservices at Netflix   Scale: Principles, Tradeoffs & Lessons Learned • R. Meshenberg
