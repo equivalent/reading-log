@@ -2,8 +2,9 @@
 todo https://www.youtube.com/watch?v=7i6AL7Walc4&list=WL #  Isomorphic App Development with Ruby and Volt by Ryan Stout
 todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=3229  # rais conf 2015 day 1
 
-* https://www.youtube.com/watch?v=SEvO1Gqd34Y # kibana define bar chart
-  in kibana 4
+* https://www.youtube.com/watch?v=SEvO1Gqd34Y # kibana define bar chart   in kibana 4
+
+* https://www.youtube.com/watch?v=B_KIAmFZJz0 # Martin Fowler - Keynote Software Design in the 21st Century
 * https://davejlong.com/2017/01/27/playing-with-elixir-pipes/?utm_campaign=elixir_radar_84&utm_medium=email&utm_source=RD+Station
 
 * https://risingstars2016.js.org/ # js highlites of 2016
