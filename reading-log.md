@@ -2,6 +2,10 @@
 todo https://www.youtube.com/watch?v=7i6AL7Walc4&list=WL #  Isomorphic App Development with Ruby and Volt by Ryan Stout
 todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=3229  # rais conf 2015 day 1
 
+* https://www.youtube.com/watch?v=-6BsiVyC1kM&t=638s # The Value of  Values with Rich Hickey
+
+* http://blog.ploeh.dk/2017/01/27/from-dependency-injection-to-dependency-rejection/
+
 * https://blog.fourk.io/uuids-as-primary-keys-in-phoenix-with-ecto-and-elixir-1dd79e1ecc2e#.n1a6fj1xq
 * https://www.youtube.com/watch?v=QWNbK7A_6KU # Grady Booch The promise,   the Limits, the Beauty of Software
 
