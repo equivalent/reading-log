@@ -2,6 +2,11 @@
 todo https://www.youtube.com/watch?v=7i6AL7Walc4&list=WL #  Isomorphic App Development with Ruby and Volt by Ryan Stout
 todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=3229  # rais conf 2015 day 1
 
+todo https://fosdem.org/2017/schedule/event/postgresql_infrastructure_monitoring/
+
+* https://sevos.io/2017/02/27/turbolinks-lifecycle-explained.html
+
+* http://renesd.blogspot.se/2017/02/is-postgresql-good-enough.html 
 * https://www.youtube.com/watch?v=-6BsiVyC1kM&t=638s # The Value of  Values with Rich Hickey
 
 * http://blog.ploeh.dk/2017/01/27/from-dependency-injection-to-dependency-rejection/
