@@ -4,6 +4,11 @@ todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=322
 
 todo https://fosdem.org/2017/schedule/event/postgresql_infrastructure_monitoring/
 
+* http://big-elephants.com/2016-06/how-we-deploy-elixir-apps/
+* http://www.east5th.co/blog/2016/12/26/deploying-elixir-applications-with-distillery/
+
+* https://www.youtube.com/watch?v=axKOOsXf8M4a # ruby on rail 5.1
+  changes
 * https://sevos.io/2017/02/27/turbolinks-lifecycle-explained.html
 
 * http://renesd.blogspot.se/2017/02/is-postgresql-good-enough.html 
