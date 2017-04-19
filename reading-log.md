@@ -4,8 +4,10 @@ todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=322
 
 todo https://fosdem.org/2017/schedule/event/postgresql_infrastructure_monitoring/
 
+* https://jeremenichelli.github.io/2015/07/building-blog-jekyll-creating-layouts/
 
 * https://mruby.sh/201703270126.html  mruby The 500.000$ release
+* https://www.twilio.com/blog/2017/03/create-a-landing-page-with-sinatra-google-spreadsheets-and-ruby.html
 
 * http://big-elephants.com/2016-06/how-we-deploy-elixir-apps/
 * http://www.east5th.co/blog/2016/12/26/deploying-elixir-applications-with-distillery/
