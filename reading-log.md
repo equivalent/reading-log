@@ -4,6 +4,10 @@ todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=322
 
 todo https://fosdem.org/2017/schedule/event/postgresql_infrastructure_monitoring/
 
+* https://github.com/dwyl/learn-aws-lambda
+* http://docs.aws.amazon.com/sdkforruby/api/Aws/S3/Client.html
+* https://aws.amazon.com/blogs/compute/scripting-languages-for-aws-lambda-running-php-ruby-and-go/
+
 * https://jeremenichelli.github.io/2015/07/building-blog-jekyll-creating-layouts/
 
 * https://mruby.sh/201703270126.html  mruby The 500.000$ release
