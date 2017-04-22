@@ -4,6 +4,8 @@ todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=322
 
 todo https://fosdem.org/2017/schedule/event/postgresql_infrastructure_monitoring/
 
+* https://johnnunemaker.com/resilience-in-ruby/
+
 * https://github.com/dwyl/learn-aws-lambda
 * http://docs.aws.amazon.com/sdkforruby/api/Aws/S3/Client.html
 * https://aws.amazon.com/blogs/compute/scripting-languages-for-aws-lambda-running-php-ruby-and-go/
