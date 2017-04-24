@@ -4,6 +4,13 @@ todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=322
 
 todo https://fosdem.org/2017/schedule/event/postgresql_infrastructure_monitoring/
 
+* https://medium.com/@brucepomeroy/deploying-an-elixir-umbrella-project-using-distillery-and-edeliver-b0e8528569e3
+* https://github.com/boldpoker/edeliver
+* https://github.com/bitwalker/distillery/blob/master/docs/Phoenix%20Walkthrough.md
+* http://www.phoenixframework.org/v0.7.2/docs/deployment
+*
+
+
 * https://johnnunemaker.com/resilience-in-ruby/
 
 * https://github.com/dwyl/learn-aws-lambda
