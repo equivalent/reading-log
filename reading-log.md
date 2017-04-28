@@ -4,6 +4,12 @@ todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=322
 
 todo https://fosdem.org/2017/schedule/event/postgresql_infrastructure_monitoring/
 
+* https://johnnunemaker.com/resilience-in-ruby/
+* https://www.youtube.com/watch?v=7G1LjQSYM5Q # How Tor Users Got Caught  - Defcon 22
+
+
+* https://www.youtube.com/watch?v=2IeU7Cck0hI # DEF CON 22 - Chris   Littlebury - Home Alone with localhost: Automating Home Defense
+
 * https://medium.com/@brucepomeroy/deploying-an-elixir-umbrella-project-using-distillery-and-edeliver-b0e8528569e3
 * https://github.com/boldpoker/edeliver
 * https://github.com/bitwalker/distillery/blob/master/docs/Phoenix%20Walkthrough.md
