@@ -4,6 +4,7 @@ todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=322
 
 todo https://fosdem.org/2017/schedule/event/postgresql_infrastructure_monitoring/
 
+ * https://www.youtube.com/watch?v=MD9NSyf_baw&t=1318s  # DEF CON 22 Don't DDoS Me Bro Practical DDoS 
 * https://johnnunemaker.com/resilience-in-ruby/
 * https://www.youtube.com/watch?v=7G1LjQSYM5Q # How Tor Users Got Caught  - Defcon 22
 
