@@ -4,6 +4,13 @@ todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=322
 
 todo https://fosdem.org/2017/schedule/event/postgresql_infrastructure_monitoring/
 
+* http://docs.aws.amazon.com/lambda/latest/dg/nodejs-prog-model-context.html
+* https://cloudonaut.io/integrate-sqs-and-lambda-serverless-architecture-for-asynchronous-workloads/
+
+* http://blog.plataformatec.com.br/2016/12/many-to-many-and-upserts/
+* http://blog.markstarkman.com/blog/2013/01/23/using-sqlite-to-test-active-record-models/
+* http://blog.plataformatec.com.br/2015/10/mocks-and-explicit-contracts/
+
 * http://sgeos.github.io/phoenix/elixir/erlang/ecto/distillery/postgresql/mysql/2016/09/18/storing-elixir-release-configuration-in-environment-variables-with-distillery.html
 
 * https://www.youtube.com/watch?v=MD9NSyf_baw&t=1318s  # DEF CON 22 Don't DDoS Me Bro Practical DDoS 
