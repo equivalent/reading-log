@@ -4,6 +4,10 @@ todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=322
 
 todo https://fosdem.org/2017/schedule/event/postgresql_infrastructure_monitoring/
 
+* https://blog.sentry.io/2017/11/15/sentry-ruby-sdk
+* https://www.exceptionalcreatures.com/bestiary.html
+* https://github.com/hcvst/erlang-otp-tutorial
+
 * http://docs.aws.amazon.com/lambda/latest/dg/nodejs-prog-model-context.html
 * https://cloudonaut.io/integrate-sqs-and-lambda-serverless-architecture-for-asynchronous-workloads/
 
