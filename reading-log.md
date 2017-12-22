@@ -4,6 +4,12 @@ todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=322
 
 todo https://fosdem.org/2017/schedule/event/postgresql_infrastructure_monitoring/
 
+* https://www.quora.com/What-makes-Rails-a-framework-worth-learning-in-2017/answer/David-Heinemeier-Hansson?srid=tfS=1
+* http://rubyonrails.org/doctrine/
+
+* https://www.rubytapas.com/2017/11/27/episode-507-functional-mockup
+* https://www.rubytapas.com/2017/11/09/episode-504-disposable-object/
+
 * https://blog.sentry.io/2017/11/15/sentry-ruby-sdk
 * https://www.exceptionalcreatures.com/bestiary.html
 * https://github.com/hcvst/erlang-otp-tutorial
