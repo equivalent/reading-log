@@ -6,6 +6,8 @@ todo https://fosdem.org/2017/schedule/event/postgresql_infrastructure_monitoring
 
 * https://www.quora.com/What-makes-Rails-a-framework-worth-learning-in-2017/answer/David-Heinemeier-Hansson?srid=tfS=1
 * http://rubyonrails.org/doctrine/
+* https://github.com/stimulusjs/stimulus/blob/master/ORIGIN.md
+* https://m.signalvnoise.com/the-majestic-monolith-29166d022228
 
 * https://www.rubytapas.com/2017/11/27/episode-507-functional-mockup
 * https://www.rubytapas.com/2017/11/09/episode-504-disposable-object/
