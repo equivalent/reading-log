@@ -4,6 +4,9 @@ todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=322
 
 todo https://fosdem.org/2017/schedule/event/postgresql_infrastructure_monitoring/
 
+* https://www.youtube.com/watch?v=_wD25uHx_Sw  RailsConf 2016 -
+  ActiveRecord vs. Ecto: A Tale of Two ORMs by Brad Urani
+
 * https://www.youtube.com/watch?v=SWEts0rlezA  Turbolinks5 
 * https://www.quora.com/What-makes-Rails-a-framework-worth-learning-in-2017/answer/David-Heinemeier-Hansson?srid=tfS=1
 * http://rubyonrails.org/doctrine/
