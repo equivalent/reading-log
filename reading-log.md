@@ -4,6 +4,9 @@ todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=322
 
 todo https://fosdem.org/2017/schedule/event/postgresql_infrastructure_monitoring/
 
+
+* https://www.youtube.com/watch?v=DaznKqh5Ypk  Rails + GraphQL Tutorial   - Building a GraphQL API Server
+
 * https://www.youtube.com/watch?v=_wD25uHx_Sw  RailsConf 2016 -
   ActiveRecord vs. Ecto: A Tale of Two ORMs by Brad Urani
 
