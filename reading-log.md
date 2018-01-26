@@ -4,6 +4,8 @@ todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=322
 
 todo https://fosdem.org/2017/schedule/event/postgresql_infrastructure_monitoring/
 
+* https://tenderlovemaking.com/2018/01/23/reducing-memory-usage-in-ruby.html
+
 * https://medium.com/@dan_manges/the-modular-monolith-rails-architecture-fb1023826fc4
 
 * https://hashnode.com/post/architecture-how-would-you-go-about-building-an-activity-feed-like-facebook-cioe6ea7q017aru53phul68t1
