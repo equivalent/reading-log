@@ -4,6 +4,15 @@ todo https://www.youtube.com/watch?feature=player_detailpage&v=oMlX9i9Icno#t=322
 
 todo https://fosdem.org/2017/schedule/event/postgresql_infrastructure_monitoring/
 
+ https://www.youtube.com/watch?v=3NdFzhIvUQA # 2017 RubyHACK, James Thompson: "Serverless" Ruby on AWS
+
+* https://github.com/waiting-for-dev/warden-jwt_auth
+* https://github.com/waiting-for-dev/warden-jwt_auth/wiki
+* http://waiting-for-dev.github.io/blog/2017/01/24/jwt_revocation_strategies/
+* https://docs.microsoft.com/en-us/azure/cosmos-db/partition-data azure
+  partitioning
+* https://twitter.com/dhh/status/962111734361178112  DHH example of
+  controllerl
 * https://tenderlovemaking.com/2018/01/23/reducing-memory-usage-in-ruby.html
 
 * https://medium.com/@dan_manges/the-modular-monolith-rails-architecture-fb1023826fc4
